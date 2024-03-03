@@ -1,1 +1,14 @@
 # Session-8-Assignment
+
+In Assignment 8 of Geospatial Programming Course, there are 4 problems which are given below:
+
+>**Question 1**: Vector data represents geographic features using discrete geometric objects such as points, lines, and polygons and can store attribute information associated with each feature. Different types of vector data commonly used in Geographic Information Systems (GIS) such as points. lines, polygons, multi-points, multi-lines, multi-polygons. Points represent specific locations (e.g., cities, sampling sites), lines represent linear features (e.g., roads, rivers), and polygons represent areas (e.g., administrative boundaries, land parcels). For solving this problem, I opened Goggle Earth Engine Code Editor and draw a rectangle, a point and a polygon. Next, i run the code & took a screenshot. Then, I created a folder containing that screenshot and the GEE code js file of that. Finally, I added the folder in the GitHub repository whose link is attached here.
+[Answer 1](https://github.com/t-anikaa/Session-8-Assignment/tree/main/Assignment%208%20(Q%26A-1)) 
+
+>**Question 2**: Polygons represent enclosed areas and are defined by a series of connected lines forming a closed loop. Examples include: Administrative boundaries (e.g., country borders, state boundaries), Land parcels, Ecological zones etc. In this solution, at first I opened Google Earth Engine Code Editor. Then, I created a feature collection of 5 polygons covering waterbodies in my area & run the code. Finally, I took the screenshot and created a folden containing the screenshot and GEE code js file of that. Also, I have uploaded the file in GitHUb repository whose link is attached here.
+[Answer 2](https://github.com/t-anikaa/Session-8-Assignment/tree/main/Assignment%208%20(Q%26A-2))
+
+>**Question 3**: For this question, a code link in GEE had been provided where the boundary map and division map of Bangladesh were given. Here, I commented the division map and run the code. As a result, it showed the boundary map only. Lastly, I took the screenshot of that boundary map and followed the previous steps to upload in GitHub repository. The repo link is attached here.[Answer 3](https://github.com/t-anikaa/Session-8-Assignment/tree/main/Assignment%208%20(Q%26A-3))
+
+>**Question 4**: In this last question, again a code link in GEE had been provided where the boundary map & division map of Bangladesh were given. For solving this question, I changed the division name from Chittagong to Dhaka & made som required changes. Then, I commented the boundary map and division map & run the code. As a result, the map of Dhaka city had appeared on the map. Finally, I took the screenshot of that Dhaka map & followed the previous steps to upload in GitHub repository. The repo link is attached here.
+[Answer 4](https://github.com/t-anikaa/Session-8-Assignment/tree/main/Assgnment%208%20(Q%26A-4))
